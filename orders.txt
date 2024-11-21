@@ -1,0 +1,9 @@
+0001: Order Items
+  Food Code: B1
+  Pizza Name: Yumburger
+Coke (Small)
+  Price: ₱ 99.00
+  Quantity: 1
+  Total Price: 99.00
+  Status: In Progress
+

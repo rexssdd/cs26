@@ -1,0 +1,11 @@
+Kentucky Avenue 
+Order Receipt
+Order Number: 0001
+Order Type: Dine In
+======================================
+Yumburger
+Coke (Small)     1 x ₱99.00 = ₱99.00
+======================================
+Total: ₱99.00
+Amount Paid: ₱100.00
+Change: ₱1.00
